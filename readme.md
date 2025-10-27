@@ -1,1 +1,1 @@
-Course Selling platform With ML integration for course recommendation
+Course Selling platform With ML integration for course recommendation app
